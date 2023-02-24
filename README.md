@@ -1,5 +1,5 @@
 # React-Tours-proyecto-freeCodeCamp-
-React-Babel freeCodeCamp - Proyectos - john Smilga
+React-Babel Curso freeCodeCamp - Proyectos - john Smilga
 
 
 15 React Projects 
